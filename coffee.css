@@ -89,3 +89,28 @@ p{
     padding: 10px;
     margin: 10px;
 }
+
+h4{
+    margin: 25px;
+    /* padding: 20px; */
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.types-of-coffee-list {
+    margin: 25px;
+    padding: 50px;
+    border: 5px solid black;
+}
+
+.lists {
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    justify-content: flex-start;
+}
+
+span{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
+
