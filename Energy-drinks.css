@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: rgba(228, 232, 225, 0.91);
+}
+/* 
+main{
+    padding: 2cm;
+} */
+.list{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+ /* Design of navbar  */
+
+.opage{
+    color: rgba(2, 0, 84, 0.93);
+    margin: 20px 25px;
+    padding: 20px 25px;
+    border: 2px solid black;
+}
+
+/* about heading */
+
+.section {
+    border: 5px solid rgba(28, 28, 43, 0.93);
+    border-radius:20px;
+    padding: 25px;
+    margin: 25px 70px;
+}
+
+h1{
+    margin:  50px 25px;
+    display: flex;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+/* about articles  */
+
+.articles{
+    margin: 20px;
+    padding: 20px;
+    border: 3px solid rgb(41, 41, 61);
+    border-radius: 50px;
+   
+}
+
+.abc{
+    display: flex;
+    font-size: 25px;
+    justify-content: center;
+}
+
+.images{
+    width: 200px;
+    height: 150px;
+    border: 2px solid black;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin: 0 25px;
+
+}
+
+.parts{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.links{
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    color: rgb(100, 99, 148);
+    padding: 10px;
+    margin: 10px;
+}
+
+h4{
+    margin: 25px;
+    /* padding: 20px; */
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.types-of-ed-list {
+    margin: 25px;
+    padding: 50px;
+    width: auto;
+}
+
+.lists {
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    justify-content: flex-start;
+}
+
+span{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
+
+#table {
+    border: 1px solid black;
+}
+
+th{
+    margin: 20px;
+    padding:  20px 50px;
+}
+
+td{
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid black;
+    width: 200px;
+}
