@@ -114,3 +114,29 @@ td{
     border: 1px solid black;
     width: 200px;
 }
+
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+ .footer-content{
+    margin: 50px;
+    padding: 25px;
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid rgba(97, 80, 25, 0.64);
+    border-radius: 70px;
+ }
+
+ .contact-info {
+    margin: 20px;
+    padding: 10px;
+    font-size: 20px;
+    font-style: italic;
+ }
+
+ .social{
+    color: rgba(48, 36, 0, 0.67);
+ }
